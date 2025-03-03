@@ -94,7 +94,7 @@ jobs:
           echo "Deployed to ${{ inputs.deploy-env }} environment,updated bucket: $BUCKET_NAME"
 ```
 
-### Give repository secrets as 
+**Give repository secrets as**
 
 AWS_ACCESS_KEY_ID=
 
@@ -102,7 +102,7 @@ AWS_SECRET_ACCESS_KEY=
 
 AWS_REGION=
 
-### Give Varibales  to gitthub Actions Code
+**Give Varibales  to gitthub Actions Code**
 
 bucker name
 
